@@ -80,7 +80,15 @@ The results for the models are presented in terms of:
 - Accuracy (%)
 - ROC AUC (%)
 
-A final bar plot shows the comparison between different machine learning models in terms of their accuracy and ROC-AUC scores.
+### Performance Evaluation Plot:
+The bar plot below compares the accuracy and ROC-AUC scores for different models:
+
+![Performance Evaluation - Breast Cancer Prediction](Images/PE_breast_cancer.jpeg)
+
+### ROC Curves:
+The ROC curve plot for all the models to visualize the sensitivity and specificity:
+
+![ROC - Breast Cancer Prediction](Images/roc_breast_cancer.jpeg)
 
 ## Model Deployment
 The model that performs the best is saved as `brest_cancer.pkl` using `pickle` for future deployment.
