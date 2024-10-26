@@ -26,7 +26,7 @@ The following libraries are required to run the code:
 1. Clone the repository:
     ```bash
     git clone https://github.com/Tanjim-Islam/Breast-Cancer-Prediction-Using-Machine-Learning.git
-    cd breast-cancer-prediction
+    cd Breast-Cancer-Prediction-Using-Machine-Learning
     ```
 
 2. Install the necessary dependencies:
